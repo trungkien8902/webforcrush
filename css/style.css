@@ -29,7 +29,7 @@
   background-image: url(../img/puung3.jpg);
   background-size: cover;
   background-position: 50%;
-  -webkit-filter: blur(4px);
+  -webkit-filter: blur(6px);
 }
 .swal2-title, .swal2-content{
   color: azure !important;
@@ -39,6 +39,7 @@
 }
 
 header h2 {
+  padding-top: 30px;
   font-family: 'Pacifico';
   font-size: 80px;
   text-align: center;
